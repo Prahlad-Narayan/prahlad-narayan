@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Prahlad. A Software Engineer currently pursuing Master's in Software Engineering at **Northeastern University** with a strong technical background and passion for Design and problem-solving. Emerging full-stack developer skilled in Java, MERN stack, and cloud technologies, with a focus on building scalable solutions. Passionate about optimizing system performance and creating efficient, high-impact applications.
+I'm Prahlad. A Software Engineer currently pursuing Master's in Software Engineering at **Northeastern University** with a strong technical background and passion for Design and problem-solving. Emerging full-stack developer skilled in Java, MERN stack, and cloud technologies, with a focus on building scalable solutions. Passionate about optimizing system performance and creating efficient, high-impact applications.
 
 #### 📬 Reach out to me!
 
