@@ -19,6 +19,6 @@ Hello, I'm Prahlad. A Software Engineer currently pursuing Master's in Software 
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahlad-narayan&layout=compact&&langs_count=8"/>
 </div>
 
-#### Profile views counter 👀
+#### Profile views 👀
 
 [![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/Breadcrumbsprahlad-narayan)
