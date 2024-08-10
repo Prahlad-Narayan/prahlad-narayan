@@ -21,4 +21,4 @@ Hello, I'm Prahlad. A Software Engineer currently pursuing Master's in Software 
 
 #### Profile views 👀
 
-[![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/prahlad-narayan)
+[![Hits](https://u8views.com/api/v1/github/profiles/91488768/views/day-week-month-total-count.svg)](https://u8views.com/github/Prahlad-Narayan)
