@@ -13,11 +13,6 @@ I'm Prahlad. A Software Engineer currently pursuing Master's in Software Enginee
 
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#) [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#) [![SQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](#) 
 
-#### My stats ⭐
-
-<div align="left">
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahlad-narayan&layout=normal"/>
-</div>
 
 #### Profile views 👀
 
